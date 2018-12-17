@@ -15,12 +15,12 @@
 
 <!-- リンク集　-->
 [1]:https://github.com/16ec015/Submission/blob/master/%E8%AA%B2%E9%A1%8C1.md
-[2]:
-[3]:
-[4]:
-[5]:
-[6]:
-[7]:
-[8]:
-[9]:
+[2]:https://github.com/16ec015/Submission/blob/master/%E8%AA%B2%E9%A1%8C2.md
+[3]:https://github.com/16ec015/Submission/blob/master/%E8%AA%B2%E9%A1%8C3.md
+[4]:https://github.com/16ec015/Submission/blob/master/%E8%AA%B2%E9%A1%8C4.md
+[5]:https://github.com/16ec015/Submission/blob/master/%E8%AA%B2%E9%A1%8C5.md
+[6]:https://github.com/16ec015/Submission/blob/master/%E8%AA%B2%E9%A1%8C6.md
+[7]:https://github.com/16ec015/Submission/blob/master/%E8%AA%B2%E9%A1%8C7.md
+[8]:https://github.com/16ec015/Submission/blob/master/%E8%AA%B2%E9%A1%8C8.md
+[9]:https://github.com/16ec015/Submission/blob/master/%E8%AA%B2%E9%A1%8C9.md
 [10]:
