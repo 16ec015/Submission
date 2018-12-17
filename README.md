@@ -23,4 +23,4 @@
 [7]:https://github.com/16ec015/Submission/blob/master/%E8%AA%B2%E9%A1%8C7.md
 [8]:https://github.com/16ec015/Submission/blob/master/%E8%AA%B2%E9%A1%8C8.md
 [9]:https://github.com/16ec015/Submission/blob/master/%E8%AA%B2%E9%A1%8C9.md
-[10]:
+[10]:https://github.com/16ec015/Submission/blob/master/%E8%AA%B2%E9%A1%8C10.md
